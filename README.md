@@ -52,19 +52,11 @@ Me apasiona la programación y estoy siempre en constante aprendizaje. Busco mej
 ### 🌐 Página Web Personal y Estática  
 💻 [Mi Página Web Personal](https://github.com/Cperseb/Cperseb.github.io)  
 
-*(Cambia los enlaces por los correctos 👆)*
-
 ---
 
 ## 📫 Contacto  
 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario/)  
 📧 **Email:** tuemail@ejemplo.com  
-
----
-
-### 📊 GitHub Stats  
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosPertierraSebastian&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPertierraSebastian&layout=compact&theme=tokyonight)
 
 ---
 
