@@ -20,7 +20,7 @@ Me apasiona la programación y estoy siempre en constante aprendizaje. Busco mej
 ### 📚 Frameworks & Proyectos  
 - 🔲 **Proyecto de 3 en raya**  
 - 🚢 **Hundir la Flota**  
-*(y más en desarrollo...)*
+*(y más proyectos en desarrollo...)*
 
 ### 🔧 Herramientas  
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-lightgrey?style=flat&logo=virtualbox&logoColor=white)
