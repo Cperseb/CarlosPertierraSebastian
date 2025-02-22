@@ -35,22 +35,23 @@ Me apasiona la programación y estoy siempre en constante aprendizaje. Busco mej
 ## 🚀 Proyectos Destacados  
 
 ### ✅ Lista de Tareas con Node.js (Servidor Local)  
-📝 [Lista de Tareas - Node.js]([https://github.com/Cperseb/Lista-de-Tareas-en-servidor-NODE](https://github.com/Cperseb/Lista-de-Tareas-en-servidor-NODE))  
+📝 [Lista de Tareas - Node.js](https://github.com/Cperseb/Lista-de-Tareas-en-servidor-NODE)  
 
 ### 🦁 Catálogo de un Zoológico  
-🐾 [Catálogo Zoológico]([https://github.com/Cperseb/Catalogo-zoologico](https://github.com/Cperseb/Catalogo-zoologico))  
+🐾 [Catálogo Zoológico](https://github.com/Cperseb/Catalogo-zoologico)  
 
 ### 📚 Base de Datos de una Biblioteca  
-📖 [Base de Datos Biblioteca]([https://github.com/Cperseb/Base-de-datos-biblioteca](https://github.com/Cperseb/Base-de-datos-biblioteca))  
+📖 [Base de Datos Biblioteca](https://github.com/Cperseb/Base-de-datos-biblioteca)  
 
 ### 🎲 Tres en Raya (Java)  
-❌⭕ [Tres en Raya - Java]([https://github.com/Cperseb/Tres-en-Raya-Java](https://github.com/Cperseb/Tres-en-Raya-Java))  
+❌⭕ [Tres en Raya - Java](https://github.com/Cperseb/Tres-en-Raya-Java)  
 
 ### 🛒 Tienda de Videojuegos (JSP)  
-🎮 [Tienda de Videojuegos - JSP]([https://github.com/Cperseb/Cperseb](https://github.com/Cperseb/Proyecto-videojuegos-JSP))  
+🎮 [Tienda de Videojuegos - JSP](https://github.com/Cperseb/Cperseb)  
 
 ### 🌐 Página Web Personal y Estática  
-💻 [Mi Página Web Personal]([https://github.com/Cperseb/Cperseb.github.io](https://github.com/Cperseb/Cperseb.github.io))  
+💻 [Mi Página Web Personal](https://github.com/Cperseb/Cperseb.github.io)  
+
 
 
 *(Cambia los enlaces por los correctos 👆)*
