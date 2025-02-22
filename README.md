@@ -17,10 +17,7 @@ Me apasiona la programación y estoy siempre en constante aprendizaje. Busco mej
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### 📚 Frameworks & Proyectos  
-- 🔲 **Proyecto de 3 en raya**  
-- 🚢 **Hundir la Flota**  
-*(y más proyectos en desarrollo...)*
+---
 
 ### 🔧 Herramientas  
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-lightgrey?style=flat&logo=virtualbox&logoColor=white)
@@ -35,12 +32,26 @@ Me apasiona la programación y estoy siempre en constante aprendizaje. Busco mej
 
 ---
 
-## 🌟 Proyectos Destacados  
-🔗 [Mis repositorios más importantes](https://github.com/CarlosPertierraSebastian?tab=repositories)  
+## 🚀 Proyectos Destacados  
 
-💡 *Repositorios destacados:*  
-- [🕹️ **Juego de 3 en raya**](https://github.com/TuUsuario/TuRepositorio3EnRaya)  
-- [🚀 **Hundir la Flota**](https://github.com/TuUsuario/TuRepositorioHundirLaFlota)  
+### ✅ Lista de Tareas con Node.js (Servidor Local)  
+📝 [Lista de Tareas - Node.js]([https://github.com/Cperseb/Lista-de-Tareas-en-servidor-NODE](https://github.com/Cperseb/Lista-de-Tareas-en-servidor-NODE))  
+
+### 🦁 Catálogo de un Zoológico  
+🐾 [Catálogo Zoológico]([https://github.com/Cperseb/Catalogo-zoologico](https://github.com/Cperseb/Catalogo-zoologico))  
+
+### 📚 Base de Datos de una Biblioteca  
+📖 [Base de Datos Biblioteca]([https://github.com/Cperseb/Base-de-datos-biblioteca](https://github.com/Cperseb/Base-de-datos-biblioteca))  
+
+### 🎲 Tres en Raya (Java)  
+❌⭕ [Tres en Raya - Java]([https://github.com/Cperseb/Tres-en-Raya-Java](https://github.com/Cperseb/Tres-en-Raya-Java))  
+
+### 🛒 Tienda de Videojuegos (JSP)  
+🎮 [Tienda de Videojuegos - JSP]([https://github.com/Cperseb/Cperseb](https://github.com/Cperseb/Proyecto-videojuegos-JSP))  
+
+### 🌐 Página Web Personal y Estática  
+💻 [Mi Página Web Personal]([https://github.com/Cperseb/Cperseb.github.io](https://github.com/Cperseb/Cperseb.github.io))  
+
 
 *(Cambia los enlaces por los correctos 👆)*
 
