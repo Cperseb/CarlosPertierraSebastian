@@ -47,7 +47,7 @@ Me apasiona la programación y estoy siempre en constante aprendizaje. Busco mej
 ❌⭕ [Tres en Raya - Java](https://github.com/Cperseb/Tres-en-Raya-Java)  
 
 ### 🛒 Tienda de Videojuegos (JSP)  
-🎮 [Tienda de Videojuegos - JSP](https://github.com/Cperseb/Cperseb)  
+🎮 [Tienda de Videojuegos - JSP](https://github.com/Cperseb/Cperseb](https://github.com/Cperseb/Proyecto-videojuegos-JSP)  
 
 ### 🌐 Página Web Personal y Estática  
 💻 [Mi Página Web Personal](https://github.com/Cperseb/Cperseb.github.io)  
