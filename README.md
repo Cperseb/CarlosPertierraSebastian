@@ -55,8 +55,8 @@ Me apasiona la programación y estoy siempre en constante aprendizaje. Busco mej
 ---
 
 ## 📫 Contacto  
-🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario/)  
-📧 **Email:** tuemail@ejemplo.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/carlos-pertierra/)  
+📧 **Email:** cperseb.trabajo@gmail.com  
 
 ---
 
